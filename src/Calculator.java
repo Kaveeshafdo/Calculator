@@ -69,7 +69,7 @@ public class Calculator extends JFrame{
         
         jpl.setSize(436,560);
         jpl.setLayout(null);
-        jpl.setBackground(new Color(42, 45, 47));
+        jpl.setBackground(new Color(42, 45, 46));
         
         
         frame.add(jpl);
@@ -77,7 +77,7 @@ public class Calculator extends JFrame{
         jta.setBounds(2, 40, 416, 110);
         jta.setBorder(brd);
         jta.setFont(myFont);
-        jta.setBackground(new Color(42, 45, 47));
+        jta.setBackground(new Color(42, 45, 46));
         jta.setForeground(Color.WHITE);
         jpl.add(jta);
        
